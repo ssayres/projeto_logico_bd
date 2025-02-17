@@ -1,0 +1,12 @@
+-- Descrição do Projeto Lógico
+-- Este projeto representa a modelagem de um sistema de e-commerce, cobrindo desde o cadastro de clientes e fornecedores até a gestão de pedidos, pagamentos e entregas. O modelo lógico foi estruturado para garantir a integridade e coerência das informações, permitindo um controle eficiente das transações comerciais.
+
+-- A modelagem considera os seguintes aspectos:
+-- 1. Clientes: Podem ser pessoas físicas (PF) ou jurídicas (PJ), garantindo a exclusividade de CPF/CNPJ.
+-- 2. Fornecedores: Cadastro de fornecedores responsáveis pelos produtos oferecidos na plataforma.
+-- 3. Produtos: Informações detalhadas sobre cada item disponível para compra.
+-- 4. Estoques: Controle da disponibilidade dos produtos em diferentes localizações.
+-- 5. Pedidos: Registra as compras realizadas pelos clientes e seus respectivos status.
+-- 6. Itens do Pedido: Detalhamento dos produtos adquiridos em cada pedido.
+-- 7. Pagamentos: Registro das transações financeiras associadas aos pedidos.
+-- 8. Entregas: Controle dos envios, incluindo status e código de rastreio.
