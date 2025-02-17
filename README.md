@@ -1,0 +1,2 @@
+- Descrição do Projeto Lógico
+-- Este projeto modela um sistema de gerenciamento para uma oficina mecânica, incluindo o cadastro de clientes, veículos, ordens de serviço, mecânicos e pagamentos.
